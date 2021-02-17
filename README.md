@@ -1,0 +1,3 @@
+# testBluetooth
+
+Test unitaire pour la puce HC-06. Dans ce code, j'ai envoyé la température d'un capteur DS18B20 par bluetooth vers un terminal Bluetooth sur Windows. Ce n'est que les premiers tests...
